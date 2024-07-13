@@ -1,10 +1,5 @@
 
 ## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/BharathKumar-c/RN-MutualFundInvestmentAPP/main/src/assets/images/MM-profile.png)
-
-![App Screenshot](https://raw.githubusercontent.com/BharathKumar-c/RN-MutualFundInvestmentAPP/main/src/assets/images/MM-scan_page.png)
-
 ![App Screenshot](https://raw.githubusercontent.com/BharathKumar-c/RN-MutualFundInvestmentAPP/main/src/assets/images/Marshmallow_mockup_v1.png)
 # Mutual Fund Investment App Using ReactNative
 
